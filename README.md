@@ -39,7 +39,8 @@ Allows user to view current date/time, input scheduling items by the selected ho
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![F2A82D31-E814-48F5-BAEF-38F75902EA9F](https://user-images.githubusercontent.com/112831268/192880969-125109fa-453f-42db-97c2-a950aae3c8da.jpeg)
+
 
 ## Credits
 
